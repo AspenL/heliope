@@ -1,0 +1,292 @@
+{
+  "id": "forge-vtt-shared-compendiums-heliope-classes",
+  "name": "forge-vtt-shared-compendiums-heliope-classes",
+  "title": "Heliope Classes (Shared Compendiums)",
+  "description": "<p>The homebrew classes and subclasses used in my games</p>\n <br/><div style=\"border: 1px solid #eee;border-left-width: .25rem;border-left-color: #f0ad4e;border-radius: .25rem;padding: 10px;\">\n        <h5 style=\"margin:0px;\">Shared Compendium</h5>\n        <p style=\"margin-bottom:0px;\">This module allows you to share compendiums between your worlds.</p>\n        <p style=\"margin-bottom:0px;\">It cannot be auto-updated, therefore it cannot overwrite your compendiums and is therefore <strong>safe to unlock</strong>.</p></div>",
+  "version": "1.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "0.6.0",
+    "verified": "10"
+  },
+  "author": "Aspen",
+  "authors": [
+    {
+      "name": "Aspen"
+    }
+  ],
+  "packs": [
+    {
+	"name": "artificer",
+	"label": "Artificer",
+	"path": "packs/artificer.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "backgrounds",
+	"label": "Backgrounds",
+	"path": "packs/backgrounds.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "barbarian",
+	"label": "Barbarian",
+	"path": "packs/barbarian.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "bard",
+	"label": "Bard",
+	"path": "packs/bard.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "beastheart",
+	"label": "Beastheart",
+	"path": "packs/beastheart.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "blood-hunter",
+	"label": "Blood Hunter",
+	"path": "packs/blood-hunter.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "books",
+	"label": "Books",
+	"path": "packs/books.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "classes",
+	"label": "Classes",
+	"path": "packs/classes.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "class-features",
+	"label": "Class Features",
+	"path": "packs/class-features.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "cleric",
+	"label": "Cleric",
+	"path": "packs/cleric.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "druid",
+	"label": "Druid",
+	"path": "packs/druid.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "feats",
+	"label": "Feats",
+	"path": "packs/feats.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "fighter",
+	"label": "Fighter",
+	"path": "packs/fighter.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "heliope-spells",
+	"label": "Heliope Spells",
+	"path": "packs/heliope-spells.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "illrigger",
+	"label": "Illrigger",
+	"path": "packs/illrigger.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "items",
+	"label": "Items",
+	"path": "packs/items.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "monk",
+	"label": "Monk",
+	"path": "packs/monk.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "npcs",
+	"label": "NPCs",
+	"path": "packs/npcs.db",
+	"entity": "Actor",
+	"type": "Actor",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "occultist",
+	"label": "Occultist",
+	"path": "packs/occultist.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "paladin",
+	"label": "Paladin",
+	"path": "packs/paladin.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "races",
+	"label": "Races",
+	"path": "packs/races.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "ranger",
+	"label": "Ranger",
+	"path": "packs/ranger.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "rogue",
+	"label": "Rogue",
+	"path": "packs/rogue.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "rogue-variant",
+	"label": "Rogue - Variant",
+	"path": "packs/rogue-variant.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "rules",
+	"label": "Rules",
+	"path": "packs/rules.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "savant",
+	"label": "Savant",
+	"path": "packs/savant.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "sorcerer",
+	"label": "Sorcerer",
+	"path": "packs/sorcerer.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "spiritualist",
+	"label": "Spiritualist",
+	"path": "packs/spiritualist.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "summoner",
+	"label": "Summoner",
+	"path": "packs/summoner.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "tarocchi",
+	"label": "Tarocchi",
+	"path": "packs/tarocchi.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "warlock",
+	"label": "Warlock",
+	"path": "packs/warlock.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "witcher",
+	"label": "Witcher",
+	"path": "packs/witcher.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    },
+    {
+	"name": "wizard",
+	"label": "Wizard",
+	"path": "packs/wizard.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "forge-vtt-shared-compendiums-heliope-classes"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e"
+      }
+    ]
+  }
+}
