@@ -1,19 +1,19 @@
 {
-  "id": "forge-vtt-shared-compendiums-heliope-classes",
-  "name": "forge-vtt-shared-compendiums-heliope-classes",
+  "id": "heliope-classes",
+  "name": "heliope-classes",
   "title": "Heliope Classes (Shared Compendiums)",
-  "description": "<p>The homebrew classes and subclasses used in my games</p>\n <br/><div style=\"border: 1px solid #eee;border-left-width: .25rem;border-left-color: #f0ad4e;border-radius: .25rem;padding: 10px;\">\n        <h5 style=\"margin:0px;\">Shared Compendium</h5>\n        <p style=\"margin-bottom:0px;\">This module allows you to share compendiums between your worlds.</p>\n        <p style=\"margin-bottom:0px;\">It cannot be auto-updated, therefore it cannot overwrite your compendiums and is therefore <strong>safe to unlock</strong>.</p></div>",
-  "version": "1.0",
+  "description": "<p>The homebrew classes and subclasses used in my games<br></p><h5>Shared Compendium</h5><p>This module allows you to share compendiums between your worlds.</p><p>It cannot be auto-updated, therefore it cannot overwrite your compendiums and is therefore <strong>safe to unlock</strong>.</p>",
+  "version": "1.0.1",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": "0.6.0",
     "verified": "10"
   },
-  "author": "Aspen",
+  "author": "AspenL",
   "authors": [
     {
-      "name": "Aspen"
+      "name": "AspenL"
     }
   ],
   "packs": [
@@ -23,7 +23,7 @@
 	"path": "packs/artificer.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "backgrounds",
@@ -31,7 +31,7 @@
 	"path": "packs/backgrounds.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "barbarian",
@@ -39,7 +39,7 @@
 	"path": "packs/barbarian.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "bard",
@@ -47,7 +47,7 @@
 	"path": "packs/bard.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "beastheart",
@@ -55,7 +55,7 @@
 	"path": "packs/beastheart.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "blood-hunter",
@@ -63,7 +63,7 @@
 	"path": "packs/blood-hunter.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "books",
@@ -71,7 +71,7 @@
 	"path": "packs/books.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "classes",
@@ -79,7 +79,7 @@
 	"path": "packs/classes.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "class-features",
@@ -87,7 +87,7 @@
 	"path": "packs/class-features.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "cleric",
@@ -95,7 +95,7 @@
 	"path": "packs/cleric.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "druid",
@@ -103,7 +103,7 @@
 	"path": "packs/druid.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "feats",
@@ -111,7 +111,7 @@
 	"path": "packs/feats.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "fighter",
@@ -119,7 +119,7 @@
 	"path": "packs/fighter.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "heliope-spells",
@@ -127,7 +127,7 @@
 	"path": "packs/heliope-spells.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "illrigger",
@@ -135,7 +135,15 @@
 	"path": "packs/illrigger.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
+    },
+    {
+	"name": "inquisitor",
+	"label": "Inquisitor",
+	"path": "packs/inquisitor.db",
+	"entity": "Item",
+	"type": "Item",
+	"package": "heliope-classes",
     },
     {
 	"name": "items",
@@ -143,7 +151,7 @@
 	"path": "packs/items.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "monk",
@@ -151,7 +159,7 @@
 	"path": "packs/monk.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "npcs",
@@ -159,7 +167,7 @@
 	"path": "packs/npcs.db",
 	"entity": "Actor",
 	"type": "Actor",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "occultist",
@@ -167,7 +175,7 @@
 	"path": "packs/occultist.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "paladin",
@@ -175,7 +183,7 @@
 	"path": "packs/paladin.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "races",
@@ -183,7 +191,7 @@
 	"path": "packs/races.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "ranger",
@@ -191,7 +199,7 @@
 	"path": "packs/ranger.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "rogue",
@@ -199,7 +207,7 @@
 	"path": "packs/rogue.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "rogue-variant",
@@ -207,7 +215,7 @@
 	"path": "packs/rogue-variant.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "rules",
@@ -215,7 +223,7 @@
 	"path": "packs/rules.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "savant",
@@ -223,7 +231,7 @@
 	"path": "packs/savant.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "sorcerer",
@@ -231,7 +239,7 @@
 	"path": "packs/sorcerer.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "spiritualist",
@@ -239,7 +247,7 @@
 	"path": "packs/spiritualist.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "summoner",
@@ -247,7 +255,7 @@
 	"path": "packs/summoner.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "tarocchi",
@@ -255,7 +263,7 @@
 	"path": "packs/tarocchi.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "warlock",
@@ -263,7 +271,7 @@
 	"path": "packs/warlock.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "witcher",
@@ -271,7 +279,7 @@
 	"path": "packs/witcher.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     },
     {
 	"name": "wizard",
@@ -279,7 +287,7 @@
 	"path": "packs/wizard.db",
 	"entity": "Item",
 	"type": "Item",
-	"package": "forge-vtt-shared-compendiums-heliope-classes"
+	"package": "heliope-classes"
     }
   ],
   "relationships": {
