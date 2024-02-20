@@ -295,6 +295,10 @@
       {
         "id": "dnd5e"
       }
-    ]
+    ],
+  "url": "http://github.com/AspenL/heliope",
+  "manifest": "http://github.com/AspenL/heliope/releases/latest/download/module.json",
+  "download": "http://github.com/AspenL/heliope/releases/latest/download/heliope-classes.zip",
+  "readme": "http://github.com/AspenL/heliope/blob/master/README.md",
   }
 }
